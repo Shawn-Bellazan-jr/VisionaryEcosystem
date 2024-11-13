@@ -1,0 +1,6 @@
+@VisionaryEcosystem.API_HostAddress = http://localhost:5012
+
+GET {{VisionaryEcosystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
